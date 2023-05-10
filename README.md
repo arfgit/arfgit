@@ -1,8 +1,12 @@
 
 
 <h1 align="center"><img src="https://github.com/arfgit/arfgit/blob/611570af1cfbb26991ce2a0fe1576ff09e454d96/af-header-finalv1.gif"/></h1>
-<h3 align="center">Born and raised in New York City, with a passion for fitness and coding.</h3>
 
+### Hi there 👋
+* 👂 My name is Anthony Feliz.
+* 🌱 I’m currently learning AWS.
+* 🤝 I’m looking to collaborate on any Open Source project.
+* ❤️ I love exploring new technologies, connecting with fellow developers, and staying active through fitness.
 
 
 <h3 align="left">Languages & Tools:</h3>
