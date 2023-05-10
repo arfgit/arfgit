@@ -15,7 +15,6 @@
 
 ### Hi there 👋
 * 👂 My name is Anthony Feliz.
-* 🌱 I’m currently learning AWS.
 * 🤝 I’m looking to collaborate on any Open Source project.
 * ❤️ I love exploring new technologies, connecting with fellow developers, and staying active through fitness.
 
@@ -32,7 +31,7 @@
 <h3 align="left">Currently Learning:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,python,vite,docker" />
+    <img src="https://skillicons.dev/icons?i=typescript,python,vite,docker,amazonwebservices" />
   </a>
 </p>
 
