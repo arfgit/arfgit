@@ -15,16 +15,10 @@
 
 
 <h3 align="left">Currently Learning:</h3>
-<p align="left"> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite">
-  <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/vite.svg" alt="Vite" width="40" height="40"/>
-</a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,python,vite,docker" />
+  </a>
 </p>
 
 <div style="display: flex;">
