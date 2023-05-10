@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anthony Feliz</h1>
-<h3 align="center">Born and raised in New York City, with a passion for fitness and coding.</h3>
+
+
+<h1 align="center"><img src="https://github.com/arfgit/arfgit/blob/611570af1cfbb26991ce2a0fe1576ff09e454d96/af-header-finalv1.gif"/></h1>
+<h3 align="center">Hi 👋, I'm Anthony Feliz. Born and raised in New York City, with a passion for fitness and coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfgit&label=Profile%20views&color=0e75b6&style=flat" alt="arfgit" /> </p>
 
