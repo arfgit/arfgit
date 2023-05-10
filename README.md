@@ -25,10 +25,11 @@
   </a>
 </p>
 
-<div style="display: flex;">
+<div style="display:flex; width:100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=arfgit&show_icons=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arfgit&show_icons=true&theme=dark" />
 </div>
+
 
 
 
