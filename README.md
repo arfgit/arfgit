@@ -1,6 +1,10 @@
 
 
-<h1 align="center"><img src="https://github.com/arfgit/arfgit/blob/611570af1cfbb26991ce2a0fe1576ff09e454d96/af-header-finalv1.gif"/></h1>
+
+<div width="360px" height="240px">
+<img src="./af-header-finalv1.gif"/>
+</div>
+
 <div align="left">
   <a href="mailto:arfeliz97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
