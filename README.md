@@ -14,12 +14,12 @@
   </a>
 </div>
 
-### <abbr title="Full Stack Software Engineer · NYC · Georgia Tech">Hi, I'm Anthony Feliz 👋</abbr>
+### <abbr title="Full Stack Software Engineer · NYC · Georgia Tech">Hi, I'm Anthony Feliz <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fe/512.gif" alt="👋" width="24" height="24"></picture></abbr>
 
-* 👂 My name is Anthony Feliz.
-* 💼 Full Stack Software Engineer based in New York City.
-* 🎓 Pursuing an M.S. in Computer Science at Georgia Tech.
-* 🤝 Open to collaborating on interesting open source projects.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f442_1f3fe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f442_1f3fe/512.gif" alt="👂" width="16" height="16"></picture> My name is Anthony Feliz.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="16" height="16"></picture> Full Stack Software Engineer based in New York City.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="16" height="16"></picture> Pursuing an M.S. in Computer Science at Georgia Tech.
+* <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fe/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fe/512.gif" alt="🤝" width="16" height="16"></picture> Open to collaborating on interesting open source projects.
 
 <h3 align="left">Languages & Tools:</h3>
 
