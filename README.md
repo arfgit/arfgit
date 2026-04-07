@@ -1,6 +1,3 @@
-
-
-
 <div width="360px" height="240px">
 <img src="./af-header-finalv1.gif"/>
 </div>
@@ -17,27 +14,66 @@
   </a>
 </div>
 
-### Hi there 👋
-* 👂 My name is Anthony Feliz.
-* 🤝 I’m looking to collaborate on any Open Source project.
-* ❤️ I love exploring new technologies, connecting with fellow developers, and staying active through fitness.
+### <abbr title="Full Stack Software Engineer · NYC · Georgia Tech">Hi, I'm Anthony Feliz 👋</abbr>
 
+* 👂 My name is Anthony Feliz.
+* 💼 Full Stack Software Engineer based in New York City.
+* 🎓 Pursuing an M.S. in Computer Science at Georgia Tech.
+* 🤝 Open to collaborating on interesting open source projects.
 
 <h3 align="left">Languages & Tools:</h3>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,redux,express,mysql,postgres,tailwindcss,firebase,nextjs,webpack,git,linux,"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td><sub><b>Languages</b></sub></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=python" title="Python" />
+      <img src="https://skillicons.dev/icons?i=java" title="Java" />
+      <img src="https://skillicons.dev/icons?i=html" title="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" title="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>Frameworks</b></sub></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" title="React" />
+      <img src="https://skillicons.dev/icons?i=vue" title="Vue" />
+      <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" />
+      <img src="https://skillicons.dev/icons?i=redux" title="Redux" />
+      <img src="https://skillicons.dev/icons?i=vite" title="Vite" />
+      <img src="https://skillicons.dev/icons?i=express" title="Express" />
+      <img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" />
+      <img src="https://skillicons.dev/icons?i=tailwindcss" title="Tailwind CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>Databases & Cloud</b></sub></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" />
+      <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" />
+      <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+      <img src="https://skillicons.dev/icons?i=aws" title="AWS" />
+    </td>
+  </tr>
+  <tr>
+    <td><sub><b>Tools</b></sub></td>
+    <td>
+      <div style="display: flex; gap: 2px; align-items: center;">
+        <img src="https://iconic-api.onrender.com/dark/jenkins" width="48px" title="Jenkins" />
+        <img src="https://iconic-api.onrender.com/dark/jira" width="48px" title="Jira" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-
-<h3 align="left">Currently Learning:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,python,vite,docker,amazonwebservices" />
-  </a>
-</p>
+<h3 align="left">AI Tools:</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" title="Claude Code">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" title="GitHub Copilot">
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" title="Codex">
+</div>
 
 <table>
   <tr>
@@ -46,9 +82,6 @@
   </tr>
 </table>
 
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arfgit&label=Profile%20views&color=0e75b6&style=flat" alt="arfgit" /> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=arfgit&label=Profile%20views&color=0e75b6&style=flat" alt="arfgit" />
+</p>
